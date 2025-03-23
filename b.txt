@@ -1,0 +1,7 @@
+
+
+GOOD NEWS, HELLO IS WORKING! this is child process, hello
+ARGV INPUT 0 is [hello]
+ARGV INPUT 1 is [world]
+THE MODIFIED STDIN is [stdinputworks!!!!!]
+
